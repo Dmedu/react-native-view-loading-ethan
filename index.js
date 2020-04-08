@@ -74,7 +74,7 @@ class ViewLoadingEthan extends Component {
         Animated.loop(this.animationLoading).stop();
     }
 }
-Loading.PropTypes = {
+ViewLoadingEthan.PropTypes = {
     lineWidth:PropTypes.number,
     size:PropTypes.number,
     lineColor:PropTypes.string
