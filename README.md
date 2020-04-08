@@ -1,5 +1,7 @@
 # react-native-view-loading-ethan
 
+<img src="./img/IMG_0380.GIF" width="200" alt="react-native-view-loading-ethan" />
+
 ## 安装
 
 ```

@@ -1,7 +1,7 @@
 {
   "name": "react-native-view-loading-ethan",
   "title": "React Native View Loading Ethan",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-view-loading-ethan.git",
-    "baseUrl": "https://github.com/github_account/react-native-view-loading-ethan"
+    "url": "git+https://github.com/Dmedu/react-native-view-loading-ethan.git",
+    "baseUrl": "https://github.com/Dmedu/react-native-view-loading-ethan"
   },
   "keywords": [
     "react-native"
